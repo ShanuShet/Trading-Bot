@@ -14,20 +14,6 @@ Supports market, limit, and stop-limit orders with logging and validation.
 - Structured logging
 - Modular Python architecture
 
-## Project Structure
-Trading-Bot/
-├── src/
-│ ├── client.py
-│ ├── market_orders.py
-│ ├── limit_orders.py
-│ ├── validation.py
-│ └── advanced/
-│ └── stop_limit.py
-├── run_bot.py
-├── README.md
-├── requirements.txt
-└── bot.log
-
 
 ## Setup
 1. Create a Binance Futures Testnet account
